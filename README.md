@@ -1,5 +1,5 @@
 ## Olá! Sou o Guilherme Oliveira Barbosa Gomes
-- 🔭 Atualmente estou desempregado, em busca de empregos
+- 🔭 Atualmente estou desempregado
 - 🌱 Estudo linguegagens C, C++ e python inicialmente na faculdade.
 - ⚡ Curiosidades: Gosto muito de futebol e estou sempre disposto a aprender coisas novas
 
